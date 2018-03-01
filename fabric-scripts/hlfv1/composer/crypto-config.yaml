@@ -76,46 +76,46 @@ PeerOrgs:
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
   
   - Name: Org3
     Domain: org3.example.com
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
 
   - Name: Org4
     Domain: org4.example.com
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
 
   - Name: Org5
     Domain: org5.example.com
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
   
   - Name: Org6
     Domain: org6.example.com
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
 
   - Name: Org7
     Domain: org7.example.com
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
 
   - Name: Org8
     Domain: org8.example.com
     Template:
       Count: 1
     Users:
-      Count: 0
+      Count: 1
